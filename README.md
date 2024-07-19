@@ -1,7 +1,9 @@
-## Robot Package Template
+## Robot Guide
 
-This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
+Hello!
 
-It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `my_bot` to whatever your project's name is.
+This is a repo where I'm storing my software for the robot I'm creating following Articulated Robotics's amazing guide [here](https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT).
 
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+The reason I have this even public is that you probably won't have the same hardware and materials the guide has (at least I don't) so documenting the substitues, failures, and lessons learned from myself trying to will hopefully help others also intersted in building a robot. 2 references are better than 1! 
+
+Eventually there will be a google docs with the full documentation of my experience, here will just be the software stuff.
